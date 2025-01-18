@@ -1,0 +1,58 @@
+@model Lab2_VanMinhThuc.Models.Device
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Device</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Device_Code" />
+            <div class="form-group">
+                <label asp-for="Device_Name" class="control-label">Device Name</label>
+                <input asp-for="Device_Name" class="form-control" />
+                <span asp-validation-for="Device_Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Category_ID" class="control-label">Category ID</label>
+                <select asp-for="Category_ID" class="form-control" asp-items="ViewBag.Category_ID"></select>
+                <span asp-validation-for="Category_ID" class="text-danger"></span>
+            </div>
+           <div class="form-group">
+                <label asp-for="Status" class="control-label">Status</label>
+                <select asp-for="Status" class="form-control">
+                    <option value="In Use" >In Use</option>
+                    <option value="Broken" >Broken</option>
+                    <option value="Under maintenance">Under maintenance</option>
+                </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Date_Of_Entry" class="control-label">Date Of Entry</label>
+                <input asp-for="Date_Of_Entry" class="form-control" />
+                <span asp-validation-for="Date_Of_Entry" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <button class="ant-btn ant-btn-solid">
+                    <a asp-action="Index" style="color:inherit">Back to List</a>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@* <div> *@
+@* <Button color="default" variant="solid"> *@
+@*     <a asp-action="Index" style="color:inherit">Back to List</a> *@
+@* </Button> *@
+@* </div> *@
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

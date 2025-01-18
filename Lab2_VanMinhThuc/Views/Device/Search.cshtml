@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Lab2_VanMinhThuc.Models.Device>
+
+@{
+    ViewData["Title"] = "Device List";
+}
+
+<h1>Device List</h1>
+
+<button class="ant-btn ant-btn-solid" style="margin-bottom:1rem">
+    <a asp-action="Create" style="color: inherit;">Create New Device</a>
+</button>
+
+<form asp-action="Search" method="post" style="width:auto">
+    <span>
+        <select name="optionChoose">
+            <option value="Search By Code">Search By Code</option>
+            <option value="Search By Name">Search By Name</option>
+        </select>
+
+        <input type="text" name="searchString" placeholder="" style="width:30%" />
+    </span>
+    <button type="submit" class="ant-btn ant-btn-solid">Search</button>
+</form>
+
+<table class="ant-table" style="width: 100%; table-layout: fixed;">
+    <thead class="ant-table-thead">
+        <tr>
+            <th class="ant-table-cell" style="background-color:blueviolet;border-color:black;border-width:1px">Device Code</th>
+            <th class="ant-table-cell" style="background-color:blueviolet;border-color:black;border-width:1px">Device Name</th>
+            <th class="ant-table-cell" style="background-color:blueviolet;border-color:black;border-width:1px">Category</th>
+            <th class="ant-table-cell" style="background-color:blueviolet;border-color:black;border-width:1px">Status</th>
+
+            <th class="ant-table-cell" style="background-color:blueviolet;border-color:black;border-width:1px">Actions</th>
+        </tr>
+    </thead>
+    <tbody class="ant-table-tbody">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td class="ant-table-cell" style="border-width:1px;border-color:black">@item.Device_Code</td>
+                <td class="ant-table-cell" style="border-width:1px;border-color:black">@item.Device_Name</td>
+                <td class="ant-table-cell" style="border-width:1px;border-color:black">@item.Category.Category_Name</td>
+                <td class="ant-table-cell" style="border-width:1px;border-color:black">@item.Status</td>
+
+
+                <td class="ant-table-cell" style="border-width:1px;border-color:black">
+                    <button class="ant-btn ant-btn-solid">
+                        <a asp-action="Edit" asp-route-id="@item.Device_Code" style="color: inherit;">Edit</a>
+                    </button>
+                    <button class="ant-btn ant-btn-solid">
+                        <a asp-action="Detail" asp-route-id="@item.Device_Code" style="color: inherit;">Detail</a>
+                    </button>
+                    <button class="ant-btn ant-btn-solid">
+                        <a asp-action="Delete" asp-route-id="@item.Device_Code" style="color: inherit;">Delete</a>
+                    </button>
+
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

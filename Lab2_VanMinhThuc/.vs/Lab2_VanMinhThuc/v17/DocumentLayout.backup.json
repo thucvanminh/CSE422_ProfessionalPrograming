@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab2_VanMinhThuc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{934C3861-EAA3-4D1B-9D18-EB92C9BDF2EC}|Lab2_VanMinhThuc.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab2_vanminhthuc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934C3861-EAA3-4D1B-9D18-EB92C9BDF2EC}|Lab2_VanMinhThuc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934C3861-EAA3-4D1B-9D18-EB92C9BDF2EC}|Lab2_VanMinhThuc.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab2_vanminhthuc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934C3861-EAA3-4D1B-9D18-EB92C9BDF2EC}|Lab2_VanMinhThuc.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934C3861-EAA3-4D1B-9D18-EB92C9BDF2EC}|Lab2_VanMinhThuc.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab2_vanminhthuc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934C3861-EAA3-4D1B-9D18-EB92C9BDF2EC}|Lab2_VanMinhThuc.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934C3861-EAA3-4D1B-9D18-EB92C9BDF2EC}|Lab2_VanMinhThuc.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab2_vanminhthuc\\views\\device\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934C3861-EAA3-4D1B-9D18-EB92C9BDF2EC}|Lab2_VanMinhThuc.csproj|solutionrelative:views\\device\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934C3861-EAA3-4D1B-9D18-EB92C9BDF2EC}|Lab2_VanMinhThuc.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab2_vanminhthuc\\views\\device\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934C3861-EAA3-4D1B-9D18-EB92C9BDF2EC}|Lab2_VanMinhThuc.csproj|solutionrelative:views\\device\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934C3861-EAA3-4D1B-9D18-EB92C9BDF2EC}|Lab2_VanMinhThuc.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab2_vanminhthuc\\views\\device\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934C3861-EAA3-4D1B-9D18-EB92C9BDF2EC}|Lab2_VanMinhThuc.csproj|solutionrelative:views\\device\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934C3861-EAA3-4D1B-9D18-EB92C9BDF2EC}|Lab2_VanMinhThuc.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab2_vanminhthuc\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934C3861-EAA3-4D1B-9D18-EB92C9BDF2EC}|Lab2_VanMinhThuc.csproj|solutionrelative:controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934C3861-EAA3-4D1B-9D18-EB92C9BDF2EC}|Lab2_VanMinhThuc.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab2_vanminhthuc\\views\\device\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{934C3861-EAA3-4D1B-9D18-EB92C9BDF2EC}|Lab2_VanMinhThuc.csproj|solutionrelative:views\\device\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab2_VanMinhThuc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab2_VanMinhThuc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:38:02.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab2_VanMinhThuc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab2_VanMinhThuc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwCoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T10:37:33.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab2_VanMinhThuc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab2_VanMinhThuc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T10:37:30.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab2_VanMinhThuc\\Views\\Device\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Device\\Create.cshtml",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab2_VanMinhThuc\\Views\\Device\\Create.cshtml",
+              "RelativeToolTip": "Views\\Device\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T10:31:28.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab2_VanMinhThuc\\Views\\Device\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Device\\Edit.cshtml",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab2_VanMinhThuc\\Views\\Device\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Device\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T10:30:36.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab2_VanMinhThuc\\Views\\Device\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Device\\Index.cshtml",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab2_VanMinhThuc\\Views\\Device\\Index.cshtml",
+              "RelativeToolTip": "Views\\Device\\Index.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T10:28:18.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab2_VanMinhThuc\\Views\\Device\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Device\\Details.cshtml",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab2_VanMinhThuc\\Views\\Device\\Details.cshtml",
+              "RelativeToolTip": "Views\\Device\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T10:26:31.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab2_VanMinhThuc\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeviceController.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab2_VanMinhThuc\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "Controllers\\DeviceController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAlwFkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:19:18.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

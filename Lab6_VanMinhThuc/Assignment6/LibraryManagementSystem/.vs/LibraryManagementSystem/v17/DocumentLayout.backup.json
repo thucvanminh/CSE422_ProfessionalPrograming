@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment6\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15E51B75-86DE-462D-B2E9-2FCA8AD322D1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment6\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E51B75-86DE-462D-B2E9-2FCA8AD322D1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E51B75-86DE-462D-B2E9-2FCA8AD322D1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment6\\librarymanagementsystem\\librarymanagementsystem\\api\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E51B75-86DE-462D-B2E9-2FCA8AD322D1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\api\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E51B75-86DE-462D-B2E9-2FCA8AD322D1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment6\\librarymanagementsystem\\librarymanagementsystem\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E51B75-86DE-462D-B2E9-2FCA8AD322D1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E51B75-86DE-462D-B2E9-2FCA8AD322D1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment6\\librarymanagementsystem\\librarymanagementsystem\\api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E51B75-86DE-462D-B2E9-2FCA8AD322D1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E51B75-86DE-462D-B2E9-2FCA8AD322D1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment6\\librarymanagementsystem\\librarymanagementsystem\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E51B75-86DE-462D-B2E9-2FCA8AD322D1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E51B75-86DE-462D-B2E9-2FCA8AD322D1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment6\\librarymanagementsystem\\librarymanagementsystem\\application\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E51B75-86DE-462D-B2E9-2FCA8AD322D1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\application\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E51B75-86DE-462D-B2E9-2FCA8AD322D1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment6\\librarymanagementsystem\\librarymanagementsystem\\application\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E51B75-86DE-462D-B2E9-2FCA8AD322D1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\application\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoansController.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment6\\LibraryManagementSystem\\LibraryManagementSystem\\API\\Controllers\\LoansController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\API\\Controllers\\LoansController.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment6\\LibraryManagementSystem\\LibraryManagementSystem\\API\\Controllers\\LoansController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\API\\Controllers\\LoansController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:17:22.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment6\\LibraryManagementSystem\\LibraryManagementSystem\\API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment6\\LibraryManagementSystem\\LibraryManagementSystem\\API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:17:14.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment6\\LibraryManagementSystem\\LibraryManagementSystem\\API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment6\\LibraryManagementSystem\\LibraryManagementSystem\\API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:17:03.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment6\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment6\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwIsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:48:12.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment6\\LibraryManagementSystem\\LibraryManagementSystem\\Application\\Services\\LoanService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Application\\Services\\LoanService.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment6\\LibraryManagementSystem\\LibraryManagementSystem\\Application\\Services\\LoanService.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Application\\Services\\LoanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:47:50.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment6\\LibraryManagementSystem\\LibraryManagementSystem\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment6\\LibraryManagementSystem\\LibraryManagementSystem\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:47:34.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment6\\LibraryManagementSystem\\LibraryManagementSystem\\Application\\Services\\BookServices.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Application\\Services\\BookServices.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment6\\LibraryManagementSystem\\LibraryManagementSystem\\Application\\Services\\BookServices.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Application\\Services\\BookServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:47:04.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

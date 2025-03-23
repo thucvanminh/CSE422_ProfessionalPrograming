@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment3\\Assignment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3712323-B940-41C0-BFAE-8B1B5A77384D}|Assignment3\\Assignment3.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment3\\assignment3\\assignment3\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3712323-B940-41C0-BFAE-8B1B5A77384D}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3712323-B940-41C0-BFAE-8B1B5A77384D}|Assignment3\\Assignment3.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment3\\assignment3\\assignment3\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3712323-B940-41C0-BFAE-8B1B5A77384D}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3712323-B940-41C0-BFAE-8B1B5A77384D}|Assignment3\\Assignment3.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment3\\assignment3\\assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3712323-B940-41C0-BFAE-8B1B5A77384D}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3712323-B940-41C0-BFAE-8B1B5A77384D}|Assignment3\\Assignment3.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment3\\assignment3\\assignment3\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3712323-B940-41C0-BFAE-8B1B5A77384D}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3712323-B940-41C0-BFAE-8B1B5A77384D}|Assignment3\\Assignment3.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment3\\assignment3\\assignment3\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3712323-B940-41C0-BFAE-8B1B5A77384D}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3712323-B940-41C0-BFAE-8B1B5A77384D}|Assignment3\\Assignment3.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment3\\assignment3\\assignment3\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3712323-B940-41C0-BFAE-8B1B5A77384D}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3712323-B940-41C0-BFAE-8B1B5A77384D}|Assignment3\\Assignment3.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment3\\assignment3\\assignment3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3712323-B940-41C0-BFAE-8B1B5A77384D}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment3\\Assignment3\\Assignment3\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Assignment3\\TeacherController.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment3\\Assignment3\\Assignment3\\TeacherController.cs",
+              "RelativeToolTip": "Assignment3\\TeacherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:34:32.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment3\\Assignment3\\Assignment3\\StudentController.cs",
+              "RelativeDocumentMoniker": "Assignment3\\StudentController.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment3\\Assignment3\\Assignment3\\StudentController.cs",
+              "RelativeToolTip": "Assignment3\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:34:08.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment3\\Assignment3\\Assignment3\\BaseController.cs",
+              "RelativeDocumentMoniker": "Assignment3\\BaseController.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment3\\Assignment3\\Assignment3\\BaseController.cs",
+              "RelativeToolTip": "Assignment3\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:32:05.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment3\\Assignment3\\Assignment3\\Teacher.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Teacher.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment3\\Assignment3\\Assignment3\\Teacher.cs",
+              "RelativeToolTip": "Assignment3\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:31:43.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment3\\Assignment3\\Assignment3\\Student.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Student.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment3\\Assignment3\\Assignment3\\Student.cs",
+              "RelativeToolTip": "Assignment3\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:31:33.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment3\\Assignment3\\Assignment3\\IEntity.cs",
+              "RelativeDocumentMoniker": "Assignment3\\IEntity.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment3\\Assignment3\\Assignment3\\IEntity.cs",
+              "RelativeToolTip": "Assignment3\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:31:07.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment3\\Assignment3\\Assignment3\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Program.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment3\\Assignment3\\Assignment3\\Program.cs",
+              "RelativeToolTip": "Assignment3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:09:29.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

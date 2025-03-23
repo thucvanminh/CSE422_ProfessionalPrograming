@@ -1,0 +1,4 @@
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab6_VanMinhThuc\Assignment2\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab6_VanMinhThuc\Assignment2\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfoInputs.cache
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab6_VanMinhThuc\Assignment2\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfo.cs
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab6_VanMinhThuc\Assignment2\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.csproj.CoreCompileInputs.cache

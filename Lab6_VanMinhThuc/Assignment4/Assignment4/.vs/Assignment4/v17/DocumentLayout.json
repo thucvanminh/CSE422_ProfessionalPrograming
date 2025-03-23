@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment4\\Assignment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6A0083-C036-4750-A1E1-19F37E1C319E}|Assignment4\\Assignment4.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment4\\assignment4\\assignment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6A0083-C036-4750-A1E1-19F37E1C319E}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6A0083-C036-4750-A1E1-19F37E1C319E}|Assignment4\\Assignment4.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment4\\assignment4\\assignment4\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6A0083-C036-4750-A1E1-19F37E1C319E}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6A0083-C036-4750-A1E1-19F37E1C319E}|Assignment4\\Assignment4.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment4\\assignment4\\assignment4\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6A0083-C036-4750-A1E1-19F37E1C319E}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6A0083-C036-4750-A1E1-19F37E1C319E}|Assignment4\\Assignment4.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment4\\assignment4\\assignment4\\paymentstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6A0083-C036-4750-A1E1-19F37E1C319E}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\paymentstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6A0083-C036-4750-A1E1-19F37E1C319E}|Assignment4\\Assignment4.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment4\\assignment4\\assignment4\\cryptopayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6A0083-C036-4750-A1E1-19F37E1C319E}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\cryptopayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6A0083-C036-4750-A1E1-19F37E1C319E}|Assignment4\\Assignment4.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment4\\assignment4\\assignment4\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6A0083-C036-4750-A1E1-19F37E1C319E}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6A0083-C036-4750-A1E1-19F37E1C319E}|Assignment4\\Assignment4.csproj|c:\\thucs\\study\\cse422_codingpractice(laptrinhchuyennghiep)\\lab6_vanminhthuc\\assignment4\\assignment4\\assignment4\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6A0083-C036-4750-A1E1-19F37E1C319E}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment4\\Assignment4\\Assignment4\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Assignment4\\PaymentService.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment4\\Assignment4\\Assignment4\\PaymentService.cs",
+              "RelativeToolTip": "Assignment4\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:56:59.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentStrategyFactory.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment4\\Assignment4\\Assignment4\\PaymentStrategyFactory.cs",
+              "RelativeDocumentMoniker": "Assignment4\\PaymentStrategyFactory.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment4\\Assignment4\\Assignment4\\PaymentStrategyFactory.cs",
+              "RelativeToolTip": "Assignment4\\PaymentStrategyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:56:43.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CryptoPayment.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment4\\Assignment4\\Assignment4\\CryptoPayment.cs",
+              "RelativeDocumentMoniker": "Assignment4\\CryptoPayment.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment4\\Assignment4\\Assignment4\\CryptoPayment.cs",
+              "RelativeToolTip": "Assignment4\\CryptoPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:56:27.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PayPalPayment.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment4\\Assignment4\\Assignment4\\PayPalPayment.cs",
+              "RelativeDocumentMoniker": "Assignment4\\PayPalPayment.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment4\\Assignment4\\Assignment4\\PayPalPayment.cs",
+              "RelativeToolTip": "Assignment4\\PayPalPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:55:44.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment4\\Assignment4\\Assignment4\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "Assignment4\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment4\\Assignment4\\Assignment4\\CreditCardPayment.cs",
+              "RelativeToolTip": "Assignment4\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:53:50.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPaymentStrategy.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment4\\Assignment4\\Assignment4\\IPaymentStrategy.cs",
+              "RelativeDocumentMoniker": "Assignment4\\IPaymentStrategy.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment4\\Assignment4\\Assignment4\\IPaymentStrategy.cs",
+              "RelativeToolTip": "Assignment4\\IPaymentStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:53:32.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment4\\Assignment4\\Assignment4\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment4\\Program.cs",
+              "ToolTip": "C:\\Thucs\\Study\\CSE422_CodingPractice(LapTrinhChuyenNghiep)\\Lab6_VanMinhThuc\\Assignment4\\Assignment4\\Assignment4\\Program.cs",
+              "RelativeToolTip": "Assignment4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:53:20.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

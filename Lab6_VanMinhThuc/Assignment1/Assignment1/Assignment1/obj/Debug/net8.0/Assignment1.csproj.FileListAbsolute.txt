@@ -1,0 +1,14 @@
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab6_VanMinhThuc\Assignment1\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.exe
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab6_VanMinhThuc\Assignment1\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.deps.json
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab6_VanMinhThuc\Assignment1\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.runtimeconfig.json
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab6_VanMinhThuc\Assignment1\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.dll
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab6_VanMinhThuc\Assignment1\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.pdb
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab6_VanMinhThuc\Assignment1\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab6_VanMinhThuc\Assignment1\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab6_VanMinhThuc\Assignment1\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab6_VanMinhThuc\Assignment1\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab6_VanMinhThuc\Assignment1\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.dll
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab6_VanMinhThuc\Assignment1\Assignment1\Assignment1\obj\Debug\net8.0\refint\Assignment1.dll
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab6_VanMinhThuc\Assignment1\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.pdb
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab6_VanMinhThuc\Assignment1\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab6_VanMinhThuc\Assignment1\Assignment1\Assignment1\obj\Debug\net8.0\ref\Assignment1.dll

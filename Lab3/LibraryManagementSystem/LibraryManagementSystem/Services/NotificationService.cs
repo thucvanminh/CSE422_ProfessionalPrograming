@@ -8,6 +8,8 @@ namespace LibraryManagementSystem.Services
     {
         private List<Notification> notificationHistory = new List<Notification>();
 
+
+
         public virtual void SendNotification(string message)
         {
             Notification notification = new Notification(message);
@@ -31,6 +33,20 @@ namespace LibraryManagementSystem.Services
                 notification.DisplayNotification();
             }
         }
+
+
+        public void SendBorrowNotification(Book book, Member member)
+        {
+            Console.WriteLine($"[Notification] {member.GetName()} has borrowed '{book.Title}' on {DateTime.Now:yyyy-MM-dd HH:mm:ss}.");
+        }
+
+        // Phương thức gửi thông báo chi tiết (ví dụ thêm một handler khác)
+        public void SendDetailedBorrowNotification(Book book, Member member)
+        {
+            Console.WriteLine($"[Detailed Notification] Book: '{book.Title}', ISBN: {book.ISBN}, Borrowed by: {member.GetName()} (ID: {member.GetMemberID()}).");
+        }
+
+
 
         // Xem lại lịch sử thông báo
         public void ShowNotificationHistory()

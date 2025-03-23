@@ -29,31 +29,33 @@ namespace LibraryManagementSystem.Models
             set { _members = value ?? new List<Member>(); }
         }
 
-        // Constructor không tham số (mặc định)
-        public Library()
+        // Delegate và Event
+        public event Action<Book, Member> OnBookBorrowed;
+
+        // Constructor
+        public Library(string libraryName)
         {
-            _libraryName = "Default Library";
+            _libraryName = libraryName;
             _books = new List<Book>();
             _members = new List<Member>();
         }
 
-        // Constructor có tham số
-        public Library(string libraryName, List<Book> books)
+        // Phương thức mượn sách, kích hoạt event
+        public void BorrowBook(Book book, Member member)
         {
-            _libraryName = libraryName;
-            _books = books ?? new List<Book>();
-            _members = new List<Member>();
+            if (book.copiesAvailables > 0)
+            {
+                book.copiesAvailables--;
+                Console.WriteLine($"{member.GetName()} borrowed '{book.Title}' from {LibraryName}.");
+                OnBookBorrowed?.Invoke(book, member); // Kích hoạt event
+            }
+            else
+            {
+                Console.WriteLine($"'{book.Title}' is not available.");
+            }
         }
 
-        // Copy Constructor
-        public Library(Library existingLibrary)
-        {
-            _libraryName = existingLibrary._libraryName;
-            _books = new List<Book>(existingLibrary._books); // Sao chép danh sách sách
-            _members = new List<Member>(existingLibrary._members); // Sao chép danh sách thành viên
-        }
-
-        // Phương thức hiển thị thông tin thư viện
+        // Hiển thị thông tin thư viện
         public void DisplayLibraryInfo()
         {
             Console.WriteLine($"Library Name: {_libraryName}");

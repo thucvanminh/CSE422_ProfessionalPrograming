@@ -7,7 +7,7 @@ using LibraryManagementSystem.Interfaces;
 
 namespace LibraryManagementSystem.Models
 {
-    internal class Member : IPrintable, IMemberActions
+    public class Member : IPrintable, IMemberActions
     {
         private string _memberId;
         private string _name;

@@ -7,7 +7,7 @@ using LibraryManagementSystem.Interfaces;
 
 namespace LibraryManagementSystem.Models
 {
-    internal class Book : IPrintable
+    public class Book : IPrintable
     {
         private string _isbn;
         private string _title;

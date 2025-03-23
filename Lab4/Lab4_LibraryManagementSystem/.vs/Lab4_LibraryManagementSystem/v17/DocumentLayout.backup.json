@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD216D-8B2D-4365-B3C4-5171924C493B}|Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem.csproj|c:\\thucs\\githubfiles\\cse422_professionalprograming\\lab4\\lab4_librarymanagementsystem\\lab4_librarymanagementsystem\\interfaces\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CD216D-8B2D-4365-B3C4-5171924C493B}|Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem.csproj|solutionrelative:lab4_librarymanagementsystem\\interfaces\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD216D-8B2D-4365-B3C4-5171924C493B}|Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem.csproj|c:\\thucs\\githubfiles\\cse422_professionalprograming\\lab4\\lab4_librarymanagementsystem\\lab4_librarymanagementsystem\\data\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CD216D-8B2D-4365-B3C4-5171924C493B}|Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem.csproj|solutionrelative:lab4_librarymanagementsystem\\data\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD216D-8B2D-4365-B3C4-5171924C493B}|Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem.csproj|c:\\thucs\\githubfiles\\cse422_professionalprograming\\lab4\\lab4_librarymanagementsystem\\lab4_librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CD216D-8B2D-4365-B3C4-5171924C493B}|Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem.csproj|solutionrelative:lab4_librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD216D-8B2D-4365-B3C4-5171924C493B}|Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem.csproj|c:\\thucs\\githubfiles\\cse422_professionalprograming\\lab4\\lab4_librarymanagementsystem\\lab4_librarymanagementsystem\\services\\repportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CD216D-8B2D-4365-B3C4-5171924C493B}|Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem.csproj|solutionrelative:lab4_librarymanagementsystem\\services\\repportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD216D-8B2D-4365-B3C4-5171924C493B}|Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem.csproj|c:\\thucs\\githubfiles\\cse422_professionalprograming\\lab4\\lab4_librarymanagementsystem\\lab4_librarymanagementsystem\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CD216D-8B2D-4365-B3C4-5171924C493B}|Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem.csproj|solutionrelative:lab4_librarymanagementsystem\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD216D-8B2D-4365-B3C4-5171924C493B}|Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem.csproj|c:\\thucs\\githubfiles\\cse422_professionalprograming\\lab4\\lab4_librarymanagementsystem\\lab4_librarymanagementsystem\\services\\readermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CD216D-8B2D-4365-B3C4-5171924C493B}|Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem.csproj|solutionrelative:lab4_librarymanagementsystem\\services\\readermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD216D-8B2D-4365-B3C4-5171924C493B}|Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem.csproj|c:\\thucs\\githubfiles\\cse422_professionalprograming\\lab4\\lab4_librarymanagementsystem\\lab4_librarymanagementsystem\\interfaces\\ireadermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CD216D-8B2D-4365-B3C4-5171924C493B}|Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem.csproj|solutionrelative:lab4_librarymanagementsystem\\interfaces\\ireadermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD216D-8B2D-4365-B3C4-5171924C493B}|Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem.csproj|c:\\thucs\\githubfiles\\cse422_professionalprograming\\lab4\\lab4_librarymanagementsystem\\lab4_librarymanagementsystem\\interfaces\\ireader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CD216D-8B2D-4365-B3C4-5171924C493B}|Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem.csproj|solutionrelative:lab4_librarymanagementsystem\\interfaces\\ireader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CD216D-8B2D-4365-B3C4-5171924C493B}|Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem.csproj|c:\\thucs\\githubfiles\\cse422_professionalprograming\\lab4\\lab4_librarymanagementsystem\\lab4_librarymanagementsystem\\models\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CD216D-8B2D-4365-B3C4-5171924C493B}|Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem.csproj|solutionrelative:lab4_librarymanagementsystem\\models\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem\\Interfaces\\IBook.cs",
+              "RelativeDocumentMoniker": "Lab4_LibraryManagementSystem\\Interfaces\\IBook.cs",
+              "ToolTip": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem\\Interfaces\\IBook.cs",
+              "RelativeToolTip": "Lab4_LibraryManagementSystem\\Interfaces\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:28:09.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4_LibraryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "Lab4_LibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:22:31.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem\\Interfaces\\IReportService.cs",
+              "RelativeDocumentMoniker": "Lab4_LibraryManagementSystem\\Interfaces\\IReportService.cs",
+              "ToolTip": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem\\Interfaces\\IReportService.cs",
+              "RelativeToolTip": "Lab4_LibraryManagementSystem\\Interfaces\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:22:09.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReaderManager.cs",
+              "DocumentMoniker": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem\\Services\\ReaderManager.cs",
+              "RelativeDocumentMoniker": "Lab4_LibraryManagementSystem\\Services\\ReaderManager.cs",
+              "ToolTip": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem\\Services\\ReaderManager.cs",
+              "RelativeToolTip": "Lab4_LibraryManagementSystem\\Services\\ReaderManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:21:40.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReaderManager.cs",
+              "DocumentMoniker": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem\\Interfaces\\IReaderManager.cs",
+              "RelativeDocumentMoniker": "Lab4_LibraryManagementSystem\\Interfaces\\IReaderManager.cs",
+              "ToolTip": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem\\Interfaces\\IReaderManager.cs",
+              "RelativeToolTip": "Lab4_LibraryManagementSystem\\Interfaces\\IReaderManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:20:52.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem\\Models\\Reader.cs",
+              "RelativeDocumentMoniker": "Lab4_LibraryManagementSystem\\Models\\Reader.cs",
+              "ToolTip": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem\\Models\\Reader.cs",
+              "RelativeToolTip": "Lab4_LibraryManagementSystem\\Models\\Reader.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:12:04.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepportService.cs",
+              "DocumentMoniker": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem\\Services\\RepportService.cs",
+              "RelativeDocumentMoniker": "Lab4_LibraryManagementSystem\\Services\\RepportService.cs",
+              "ToolTip": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem\\Services\\RepportService.cs",
+              "RelativeToolTip": "Lab4_LibraryManagementSystem\\Services\\RepportService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:11:18.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IReader.cs",
+              "DocumentMoniker": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem\\Interfaces\\IReader.cs",
+              "RelativeDocumentMoniker": "Lab4_LibraryManagementSystem\\Interfaces\\IReader.cs",
+              "ToolTip": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem\\Interfaces\\IReader.cs",
+              "RelativeToolTip": "Lab4_LibraryManagementSystem\\Interfaces\\IReader.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:09:57.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SampleData.cs",
+              "DocumentMoniker": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem\\Data\\SampleData.cs",
+              "RelativeDocumentMoniker": "Lab4_LibraryManagementSystem\\Data\\SampleData.cs",
+              "ToolTip": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab4\\Lab4_LibraryManagementSystem\\Lab4_LibraryManagementSystem\\Data\\SampleData.cs",
+              "RelativeToolTip": "Lab4_LibraryManagementSystem\\Data\\SampleData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:08:28.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

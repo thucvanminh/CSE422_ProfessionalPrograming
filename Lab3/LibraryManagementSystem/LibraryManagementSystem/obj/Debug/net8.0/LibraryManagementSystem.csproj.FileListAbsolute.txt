@@ -1,0 +1,14 @@
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab3\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.exe
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab3\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.deps.json
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab3\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.runtimeconfig.json
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab3\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.dll
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab3\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.pdb
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab3\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab3\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab3\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfo.cs
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab3\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab3\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.dll
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab3\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\refint\LibraryManagementSystem.dll
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab3\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.pdb
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab3\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.genruntimeconfig.cache
+C:\Thucs\Study\CSE422_CodingPractice(LapTrinhChuyenNghiep)\Lab3\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\ref\LibraryManagementSystem.dll

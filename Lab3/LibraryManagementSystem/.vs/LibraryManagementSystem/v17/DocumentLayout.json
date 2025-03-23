@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab3\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9752887D-0773-4F0C-97E0-184181AED730}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\thucs\\githubfiles\\cse422_professionalprograming\\lab3\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9752887D-0773-4F0C-97E0-184181AED730}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9752887D-0773-4F0C-97E0-184181AED730}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\thucs\\githubfiles\\cse422_professionalprograming\\lab3\\librarymanagementsystem\\librarymanagementsystem\\models\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9752887D-0773-4F0C-97E0-184181AED730}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9752887D-0773-4F0C-97E0-184181AED730}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\thucs\\githubfiles\\cse422_professionalprograming\\lab3\\librarymanagementsystem\\librarymanagementsystem\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9752887D-0773-4F0C-97E0-184181AED730}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9752887D-0773-4F0C-97E0-184181AED730}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\thucs\\githubfiles\\cse422_professionalprograming\\lab3\\librarymanagementsystem\\librarymanagementsystem\\interfaces\\imemberactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9752887D-0773-4F0C-97E0-184181AED730}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\interfaces\\imemberactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9752887D-0773-4F0C-97E0-184181AED730}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\thucs\\githubfiles\\cse422_professionalprograming\\lab3\\librarymanagementsystem\\librarymanagementsystem\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9752887D-0773-4F0C-97E0-184181AED730}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9752887D-0773-4F0C-97E0-184181AED730}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\thucs\\githubfiles\\cse422_professionalprograming\\lab3\\librarymanagementsystem\\librarymanagementsystem\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9752887D-0773-4F0C-97E0-184181AED730}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9752887D-0773-4F0C-97E0-184181AED730}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\thucs\\githubfiles\\cse422_professionalprograming\\lab3\\librarymanagementsystem\\librarymanagementsystem\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9752887D-0773-4F0C-97E0-184181AED730}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMemberActions.cs",
+              "DocumentMoniker": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\Interfaces\\IMemberActions.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Interfaces\\IMemberActions.cs",
+              "ToolTip": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\Interfaces\\IMemberActions.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Interfaces\\IMemberActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T04:20:03.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Member.cs",
+              "ToolTip": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Member.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T04:15:30.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\LibraryCard.cs",
+              "ToolTip": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\LibraryCard.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\LibraryCard.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T04:10:54.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:48:51.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Services\\NotificationService.cs",
+              "ToolTip": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\Services\\NotificationService.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Services\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:44:34.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Notification.cs",
+              "ToolTip": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Notification.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Notification.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:39:20.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Library.cs",
+              "ToolTip": "C:\\Thucs\\GithubFiles\\CSE422_ProfessionalPrograming\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Library.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Library.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:00:33.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
